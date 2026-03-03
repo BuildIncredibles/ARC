@@ -1,0 +1,41 @@
+# Dependencies
+/node_modules
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+.DS_Store.lock
+.DS_Store (r)
+
+# Runtime data
+.pids
+*.local
+*.vscode
+
+# User files
+.sass-cache
+.env
+.env.development
+.env.local
+.env.production
+.env.staging
+
+# Build files
+build
+dist
+lib
+release
+
+# Tests and coverage
+.jest
+coverage
+
+#IDE files
+*.idea
+*.vs
+*.suo
+*.ntvs
+*.njsproj
+*.sqlite
